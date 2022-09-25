@@ -1,0 +1,17 @@
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.AssemblyInfo.cs
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Infrastructure.deps.json
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Infrastructure.pdb
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Domain.pdb
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.csproj.CopyComplete
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\refint\Persons.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.pdb
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\ref\Persons.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\bin\Debug\net6.0\Persons.Infrastructure.runtimeconfig.json
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Infrastructure\obj\Debug\net6.0\Persons.Infrastructure.genruntimeconfig.cache

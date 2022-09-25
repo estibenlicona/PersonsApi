@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QuG7ZzYF9Omsnf08YjeXbCt4SOBj/lEhkcTSg15W5/qUH9xQAlfksnDVpRL8C8AXoWHLgTNPz4+mm54zx02s5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\analistadesarrollo2\\source\\repos\\Personas\\Persons.Application\\Persons.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\analistadesarrollo2\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\analistadesarrollo2\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\analistadesarrollo2\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\analistadesarrollo2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

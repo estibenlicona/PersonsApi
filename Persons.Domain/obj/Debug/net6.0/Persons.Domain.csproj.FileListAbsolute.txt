@@ -1,0 +1,12 @@
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\bin\Debug\net6.0\Persons.Domain.deps.json
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\bin\Debug\net6.0\Persons.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\bin\Debug\net6.0\Persons.Domain.pdb
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.csproj.AssemblyReference.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.AssemblyInfoInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.AssemblyInfo.cs
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.csproj.CoreCompileInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\refint\Persons.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\Persons.Domain.pdb
+C:\Users\analistadesarrollo2\source\repos\Personas\Persons.Domain\obj\Debug\net6.0\ref\Persons.Domain.dll
